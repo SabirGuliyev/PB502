@@ -1,0 +1,14 @@
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsArray\LoopsArray\bin\Debug\net6.0\LoopsArray.exe
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsArray\LoopsArray\bin\Debug\net6.0\LoopsArray.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsArray\LoopsArray\bin\Debug\net6.0\LoopsArray.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsArray\LoopsArray\bin\Debug\net6.0\LoopsArray.dll
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsArray\LoopsArray\bin\Debug\net6.0\LoopsArray.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsArray\LoopsArray\obj\Debug\net6.0\LoopsArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsArray\LoopsArray\obj\Debug\net6.0\LoopsArray.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsArray\LoopsArray\obj\Debug\net6.0\LoopsArray.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsArray\LoopsArray\obj\Debug\net6.0\LoopsArray.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsArray\LoopsArray\obj\Debug\net6.0\LoopsArray.dll
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsArray\LoopsArray\obj\Debug\net6.0\refint\LoopsArray.dll
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsArray\LoopsArray\obj\Debug\net6.0\LoopsArray.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsArray\LoopsArray\obj\Debug\net6.0\LoopsArray.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsArray\LoopsArray\obj\Debug\net6.0\ref\LoopsArray.dll
