@@ -1,0 +1,14 @@
+C:\Users\sabir\OneDrive\Рабочий стол\BigOExamples\BigOExamples\bin\Debug\net6.0\BigOExamples.exe
+C:\Users\sabir\OneDrive\Рабочий стол\BigOExamples\BigOExamples\bin\Debug\net6.0\BigOExamples.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\BigOExamples\BigOExamples\bin\Debug\net6.0\BigOExamples.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\BigOExamples\BigOExamples\bin\Debug\net6.0\BigOExamples.dll
+C:\Users\sabir\OneDrive\Рабочий стол\BigOExamples\BigOExamples\bin\Debug\net6.0\BigOExamples.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\BigOExamples\BigOExamples\obj\Debug\net6.0\BigOExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\BigOExamples\BigOExamples\obj\Debug\net6.0\BigOExamples.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\BigOExamples\BigOExamples\obj\Debug\net6.0\BigOExamples.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\BigOExamples\BigOExamples\obj\Debug\net6.0\BigOExamples.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\BigOExamples\BigOExamples\obj\Debug\net6.0\BigOExamples.dll
+C:\Users\sabir\OneDrive\Рабочий стол\BigOExamples\BigOExamples\obj\Debug\net6.0\refint\BigOExamples.dll
+C:\Users\sabir\OneDrive\Рабочий стол\BigOExamples\BigOExamples\obj\Debug\net6.0\BigOExamples.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\BigOExamples\BigOExamples\obj\Debug\net6.0\BigOExamples.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\BigOExamples\BigOExamples\obj\Debug\net6.0\ref\BigOExamples.dll
